@@ -28,3 +28,4 @@ its using arduino uno body by those steps.
   14. Upload the sketch
   15. when finish upload you can disconnect the GPIO0 from the GND (on the ESP) and press RST button. 
       the arduino will be used as USB to Serial Convertor if needed. if not you can disconnect all and let the ESP do its work.
+      **if you get Time out after upload the scketch disconnect the ESP and check it.
