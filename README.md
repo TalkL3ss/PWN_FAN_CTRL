@@ -1,3 +1,4 @@
+---Mixed Version of pwm Fan control---
 # PWN_FAN_CTRL
 control a pwn fan (4 pins) 
 1. esp8266 (nodeMCU)
